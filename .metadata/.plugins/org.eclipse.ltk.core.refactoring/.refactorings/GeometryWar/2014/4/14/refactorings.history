@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;instructions.dat&apos; to &apos;dat files&apos;&#x0A;- Original project: &apos;GeometryWar&apos;&#x0A;- Destination element: &apos;dat files&apos;&#x0A;- Original element: &apos;instructions.dat&apos;" description="Copy file" element1="res/dat files/instructions.dat" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1396474274875" target="/GeometryWar/res/dat files" units="0" version="1.0"/>
+</session>
